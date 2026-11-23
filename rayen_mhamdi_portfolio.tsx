@@ -174,6 +174,7 @@ const SKILLS_DATA = [
 ];
 
 const CERTIFICATIONS_DATA = [
+  { date: 'Nov 2026', title: 'Applications of AI for Anomaly Detection', issuer: 'NVIDIA', note: 'Credential ID: tsySqX7jSfWy5q22OMI6hw' },
   { date: 'Nov 2026', title: 'AI Foundation Certificate', issuer: 'CertiProf', note: 'AI Principles & Machine Learning Fundamentals' },
   { date: 'Sep 2026', title: 'Getting Started with Artificial Intelligence / Generative AI', issuer: 'IBM', note: 'AI Workflows & Generative Models' },
   { date: 'Mar 2026', title: 'Microsoft Office Specialist — Excel Expert (Excel 2019)', issuer: 'Microsoft', note: 'Advanced Data Analysis & Models' },
