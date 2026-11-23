@@ -841,16 +841,6 @@ export default function App() {
                 <p className="font-mono text-xs text-[#92958A] uppercase">
                   Licence in Informatics of Management – Software Engineering Track (Génie Logiciel)
                 </p>
-                <div className="pt-4 border-t border-[#34382E] grid grid-cols-2 gap-4 font-mono text-xs text-[#92958A]">
-                  <div>
-                    <span className="block text-[#F0F0E9] font-bold">YEAR 1 AVERAGE:</span>
-                    <span>12.09 / 20 (36/60 Credits)</span>
-                  </div>
-                  <div>
-                    <span className="block text-[#F0F0E9] font-bold">YEAR 2 AVERAGE:</span>
-                    <span>12.97 / 20 (50/60 Credits)</span>
-                  </div>
-                </div>
               </div>
 
               {/* Languages Box */}
