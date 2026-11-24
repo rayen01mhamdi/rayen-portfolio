@@ -906,7 +906,7 @@ export default function App() {
             </h2>
 
             <p className="text-xl sm:text-2xl font-medium max-w-2xl text-[#10110F]/80">
-              Open to master's program admissions, software engineering internships, and full-stack development collaborations.
+              Open to software engineering internships and full-stack development collaborations.
             </p>
 
             {/* Clickable Main Email */}
